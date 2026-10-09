@@ -124,7 +124,7 @@ export const CORE_SPECIALTIES: Specialty[] = [
       "Scheduled around open/close hours",
     ],
     image: "/images/restaurant-bar-cleaning-new-orleans.jpg",
-    imageAlt: "Clean, polished bar top and dining area in a New Orleans restaurant",
+    imageAlt: "Mopping the wood floor after close in a New Orleans restaurant, chairs stacked on tables",
   },
 ];
 
@@ -193,13 +193,13 @@ export const WORK_GALLERY: GalleryProject[] = [
   {
     id: "bar-top-restaurant-cleaning",
     serviceSlug: "restaurant-bar-cleaning",
-    title: "Bar Top Shine",
+    title: "After-Hours Floor Clean",
     category: "Restaurant & Bar Cleaning",
     location: "New Orleans, LA",
     imageUrl: "/gallery/bar-top-cleaning-new-orleans.jpg",
-    seoAlt: "Polished bar top ready for service in a New Orleans bar",
-    seoDescription: "Bar top and surrounding area cleaned and ready for open.",
-    highlights: ["Bar top polished", "Floors cleaned", "Ready before open"],
+    seoAlt: "Mopping the wood floor between booths after close in a New Orleans restaurant",
+    seoDescription: "Floors mopped and booths reset after closing, chairs up and ready to go.",
+    highlights: ["Floors mopped edge to edge", "Booths and seating wiped down", "Ready before open"],
     description: "Ready to pour before the doors even open.",
   },
 ];

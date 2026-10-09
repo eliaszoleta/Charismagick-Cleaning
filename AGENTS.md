@@ -42,8 +42,8 @@
 
 - Current photos are generic stock images reused across our cleaning-client sites (consistent with
   how those sites already share stock photography); swap in real job photos when available.
-- Restaurant/bar cleaning has no matching stock photo in our existing pool -- it was sourced new for
-  this site specifically (see `public/images/restaurant-bar-cleaning-new-orleans.jpg`).
+- Restaurant/bar cleaning has no matching stock photo in our existing pool -- a photo was supplied
+  directly for it instead (see `public/images/restaurant-bar-cleaning-new-orleans.jpg`).
 - Home gallery: `WORK_GALLERY` in `src/lib/business-data.ts`, one slide per service (photos in `public/gallery/`,
   named `<service>-<city>.jpg`). A slide without `imageUrl` shows a "photos coming soon" panel.
 - Keep uploads under ~1600px wide and use city-specific names/alt text.

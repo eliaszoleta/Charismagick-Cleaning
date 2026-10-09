@@ -418,7 +418,7 @@ export const SERVICE_PAGES: ServicePage[] = [
       },
     ],
     image: "/images/restaurant-bar-cleaning-new-orleans.jpg",
-    imageAlt: "Clean, polished bar top and dining area in a New Orleans restaurant",
+    imageAlt: "Mopping the wood floor after close in a New Orleans restaurant, chairs stacked on tables",
   },
 ];
 
