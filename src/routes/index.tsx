@@ -140,8 +140,8 @@ export function Index() {
             <div className="absolute -top-3 -left-3 right-6 bottom-6 rounded-2xl border-2 border-accent/50 pointer-events-none" />
             <div className="relative rounded-2xl overflow-hidden shadow-2xl aspect-[4/3.4] bg-secondary">
               <img
-                src="/images/house-cleaning-new-orleans.jpg"
-                alt="Freshly cleaned New Orleans home, bright and spotless"
+                src="/images/residential-home-new-orleans.jpg"
+                alt="Bright, open kitchen and living area in a freshly cleaned New Orleans home"
                 className="w-full h-full object-cover"
                 loading="eager"
               />
