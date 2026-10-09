@@ -75,8 +75,8 @@ export const CORE_SPECIALTIES: Specialty[] = [
       "Weekly, bi-weekly, monthly or one-time",
       "Same careful cleaner every visit",
     ],
-    image: "/images/house-cleaning-new-orleans.jpg",
-    imageAlt: "Bright, freshly cleaned living room after house cleaning in New Orleans",
+    image: "/images/house-cleaning-new-orleans-kitchen.jpg",
+    imageAlt: "Bright, freshly cleaned kitchen after house cleaning in New Orleans",
   },
   {
     id: "apartment-cleaning",

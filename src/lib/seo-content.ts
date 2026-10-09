@@ -143,8 +143,8 @@ export const SERVICE_PAGES: ServicePage[] = [
           "No. Many clients give us access and head to work or run errands. We'll agree on what works best for you when we book.",
       },
     ],
-    image: "/images/house-cleaning-new-orleans.jpg",
-    imageAlt: "Bright, freshly cleaned living room after house cleaning in New Orleans",
+    image: "/images/house-cleaning-new-orleans-kitchen.jpg",
+    imageAlt: "Bright, freshly cleaned kitchen after house cleaning in New Orleans",
   },
   {
     slug: "apartment-cleaning",
